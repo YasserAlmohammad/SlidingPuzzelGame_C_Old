@@ -7,7 +7,7 @@ Figure 1-a shows an example of sliding puzzle game with 15 pieces numbered rando
 The score of the game is defined as the number of movements to solve the puzzle game.  
 
 for complete details and requirement, check the PDF 
-[](/Description and Requirements.pdf)
+[Description and Requirements.pdf](https://github.com/YasserAlmohammad/SlidingPuzzelGame_C_Old/blob/main/Description%20and%20Requirements.pdf)
 ![image](/images/0.png)
 ![image](/images/1.png)
 ![image](/images/2.png)
